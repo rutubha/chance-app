@@ -1,0 +1,39 @@
+.status-card {
+    display: flex;
+    width: 80px;
+    margin-right: 15px;
+    flex-direction: column;
+}
+
+.profile-pic {
+    width: 70px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.profile-pic img {
+    width: 60px;
+    height: 60px;
+}
+
+.profile-name {
+    font-size: 13px;
+    color: #878b90;
+    text-align: center;
+}
+
+.d-flex {
+    padding: 10px 20px;
+    display: flex;
+    overflow-x: scroll;
+}
+
+.new-conn {
+    padding: 10px 20px;
+    display: flex;
+}
+
+.me-1 {
+    margin-right: 10px;
+}

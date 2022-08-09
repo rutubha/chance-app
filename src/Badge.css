@@ -1,0 +1,14 @@
+.badge {
+    width: auto;
+    padding-inline: 7px;
+    border-radius: 100%;
+    /* background-color: #f29a49; */
+}
+
+.bg-orange {
+    background-color: #f29a49;
+}
+
+.bg-light-blue {
+    background-color: #eef9fc;
+}
