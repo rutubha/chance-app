@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/chance-app/static/css/main.78119137.css",
+    "main.js": "/github.io/chance-app/static/js/main.ec6aa153.js",
+    "static/js/787.48d50d9a.chunk.js": "/github.io/chance-app/static/js/787.48d50d9a.chunk.js",
+    "index.html": "/github.io/chance-app/index.html",
+    "main.78119137.css.map": "/github.io/chance-app/static/css/main.78119137.css.map",
+    "main.ec6aa153.js.map": "/github.io/chance-app/static/js/main.ec6aa153.js.map",
+    "787.48d50d9a.chunk.js.map": "/github.io/chance-app/static/js/787.48d50d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78119137.css",
+    "static/js/main.ec6aa153.js"
+  ]
+}
